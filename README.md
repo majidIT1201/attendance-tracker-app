@@ -16,3 +16,6 @@ An AI-powered attendance tracker built using HTML, TypeScript, and CSS.
 
 ## Author
 Abdul Majid
+
+# Live Demo
+- https://attenx-attendance-tracker-ug8y.arcada.app
